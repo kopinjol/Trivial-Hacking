@@ -19,4 +19,11 @@ Store all that html into a file say airtel.html by typing the following:
 >https https://www.airtel.in > airtel.html
 
 Step 4.
-Now comes the real magic (which will be created by you). The html file tha you downloaded is most often than not the index.html file of the website. This index.html file (which is found by typing "https https://www.airtel.in") is the gateway to the whole server. It has links that you can use to go anywhere. Of course wou will have to play around and modify the html first. 
+Now comes the real magic (which will be created by you). The html file that you downloaded is most often than not the index.html file of the website. This index.html file (which is found by typing "https https://www.airtel.in") is the gateway to the whole server. It has links that you can use to go anywhere. Of course you will have to play around and modify the html first. 
+
+
+
+
+
+Last step.
+Load the modified html in firefox or any browser and now use the modified links to go wherever you want.
